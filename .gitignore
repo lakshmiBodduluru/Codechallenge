@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DataExtractEngine/bin/Debug
+/DataExtractEngine/obj/Debug
+/DataExtractEngineInterfaces/bin/Debug
+/DataExtractEngineInterfaces/obj/Debug
+/DataExtractEngineTestProject/bin/Debug/netcoreapp2.1
+/DataExtractEngineTestProject/obj
+/dotnet-code-challenge/.vs/dotnet-code-challenge
+/dotnet-code-challenge/bin/Debug/netcoreapp2.0
+/dotnet-code-challenge/obj
+/dotnet-code-challenge.Test/bin/Debug/netcoreapp2.0
+/dotnet-code-challenge.Test/obj
+/HorsePrices/bin/Debug/netcoreapp2.1
+/HorsePrices/obj
+/HorsePricesTestProject/bin/Debug/netcoreapp2.1
+/HorsePricesTestProject/obj
