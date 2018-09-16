@@ -5,11 +5,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="FeedData\Wolferhampton_Race1.json" />
+    <Compile Remove="wwwroot\**" />
+    <Content Remove="wwwroot\**" />
+    <EmbeddedResource Remove="wwwroot\**" />
+    <None Remove="wwwroot\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\" />
+    <Content Remove="FeedData\Wolferhampton_Race1.json" />
   </ItemGroup>
 
   <ItemGroup>
